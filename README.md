@@ -3,5 +3,8 @@
 ![image](https://user-images.githubusercontent.com/63113499/115137348-4244f300-a043-11eb-8620-7fb52e5b238e.png)
 
 🔵*Currently focusing on imporoving my web development skills.*
+
 🔵**HTML**
+
 🔵**CSS**
+
